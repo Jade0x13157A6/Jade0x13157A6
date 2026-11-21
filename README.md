@@ -1,16 +1,18 @@
-## Hi there 👋
+# Computer Architecture & RTL
 
-<!--
-**Jade0x13157A6/Jade0x13157A6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in Electrical Engineering and Information Technology at **Karlsruhe Institute of Technology (KIT)**, focusing on System-on-Chip design.
 
-Here are some ideas to get you started:
+## Interests
+RISC-V · Processor microarchitecture · Hardware security · Energy-efficient computing · Neuromorphic hardware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- **RISC-V Control-Flow Integrity** — Implemented and verified Zicfilp support for the Sargantana processor.
+- **INT8 Vector Dot-Product Acceleration** — Explored dense and sparse instruction support, correctness, and performance on XiangShan.
+- **Hardware-Aware NAS for SNNs** — Studied hardware-aware neural architecture search for spiking neural networks.
+- **FPGA-Based Sigma-Delta ADC** — Built an FPGA signal-capture and decimation pipeline for a sigma-delta ADC.
+
+## Tools
+SystemVerilog · Chisel · RISC-V · Python · Verilator · QEMU · GTKWave · Yosys · Linux · Git
+
+## Links
+[Portfolio](https://jade0x13157a6.github.io/) · [LinkedIn](https://www.linkedin.com/in/ruijue-l-004aa53ba/)
