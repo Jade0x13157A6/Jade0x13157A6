@@ -15,4 +15,4 @@ RISC-V · Processor microarchitecture · Hardware security · Energy-efficient c
 SystemVerilog · Chisel · RISC-V · Python · Verilator · QEMU · GTKWave · Yosys · Linux · Git
 
 ## Links
-[Portfolio](https://jade0x13157a6.github.io/) · [LinkedIn](https://www.linkedin.com/in/ruijue-l-004aa53ba/)
+[Portfolio](https://jade0x13157a6.github.io/Jade0x13157A6/) · [LinkedIn](https://www.linkedin.com/in/ruijue-l-004aa53ba/)
